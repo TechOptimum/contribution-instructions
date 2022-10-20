@@ -1,4 +1,4 @@
-# Contribution-Instructions
+# Tech Optimum Contribution Instructions
 Instructions for contributing.
 
 ## Quick Links
